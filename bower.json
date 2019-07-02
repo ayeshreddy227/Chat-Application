@@ -1,0 +1,25 @@
+{
+  "name": "angular_project",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "ayesh <ayeshreddy22722@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/vendor",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.4.1",
+    "toastr": "^2.1.3",
+    "angular": "^1.7.8",
+    "angular-resource": "^1.7.8",
+    "angular-route": "^1.7.8"
+  }
+}
